@@ -1,4 +1,4 @@
-// Calcualte the median of set of tempretures 
+// Calculate the median of set of tempretures 
 
 // Test cases 
 /* 
